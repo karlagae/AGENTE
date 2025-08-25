@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+requests
+python-dateutil
+scikit-learn
+pillow
+pymupdf
+streamlit-calendar
+easyocr
+torch
